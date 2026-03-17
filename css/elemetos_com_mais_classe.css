@@ -1,0 +1,8 @@
+p.texto{
+    text-align: center;
+    color: deeppink;
+}
+p.texto_big{
+    font-size: 300%;
+    color: chocolate;
+}

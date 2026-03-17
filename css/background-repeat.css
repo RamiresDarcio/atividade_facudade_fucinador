@@ -1,0 +1,27 @@
+body{
+    background-color: #082767;
+}
+.imagem_t_1{
+    width: 400px;
+    height: 100px;
+    background-image: url('/img/sonic_2006.png');
+    background-repeat: repeat;
+}
+.imagem_t_2{
+    width: 400px;
+    height: 150px;
+    background-image: url('/img/sonic_2006.png');
+    background-repeat: repeat-x;
+}
+.imagem_t_3{
+     width: 400px;
+    height: 150px;
+    background-image: url('/img/sonic_2006.png');
+    background-repeat: no-repeat;
+}
+.imagem_t_4{
+       width: 400px;
+    height: 100px;
+    background-image: url('/img/sonic_2006.png');
+    background-repeat: repeat-y;
+}
