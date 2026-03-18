@@ -10,7 +10,7 @@ padding: 15px;
     text-align: center;
 }
 .botao{
-    color: write;
+    color: aliceblue;
     margin: 10px;
     text-decoration: none;
 }
@@ -22,6 +22,5 @@ padding: 15px;
 }
 .box{
     background-color: lightblue;
-    width: 50px;
-    padding: 50px;
+    padding: 20px;
 }
