@@ -1,0 +1,7 @@
+@import url(/css/layouts_2.css);
+
+@media(max-whidth: 500px){
+    .container{
+        grid-template-columns: 1fr;
+    }
+}

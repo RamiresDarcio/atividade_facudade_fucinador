@@ -1,0 +1,26 @@
+.header{
+background-color: #333;
+color: white;
+text-align: center;
+padding: 15px;
+}
+.menu{
+    display: flex;
+    background: #555;
+}
+.botao{
+    flex: 1;
+    padding: 10px;
+    color: whiter;
+    text-align: center;
+    text-decoration: none;
+}
+.container{
+    padding: 10px;
+}
+.box{
+    background-color: lightblue;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+}
